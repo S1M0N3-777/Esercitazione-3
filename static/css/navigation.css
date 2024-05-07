@@ -1,0 +1,12 @@
+.navigation nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    text-decoration: none;
+}
+
+.navigation li{
+    padding-left: 54px;
+    margin-top: 87px;
+
+}
