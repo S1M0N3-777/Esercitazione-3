@@ -1,14 +1,13 @@
 .navigation nav ul {
     list-style: none;
-    padding-left: 54px;
-    margin-right: 35px;
     display: flex;
     text-decoration: none;
+    padding-left: 54px;
+    margin-right: 35px;
 }
 
 .navigation li{
     padding-left: 54px;
     margin-top: 87px;
-    
-
+    color: white;
 }

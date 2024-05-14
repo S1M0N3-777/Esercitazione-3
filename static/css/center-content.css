@@ -1,0 +1,19 @@
+.center-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+}
+
+.center-content h1{
+    font-size: 80px;
+    color: white;
+    border-bottom: 2px solid;
+}
+
+.subtitle{
+    color: white;
+    text-align: center;
+    margin-top: 72px;
+}
