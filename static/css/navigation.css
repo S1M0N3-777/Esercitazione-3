@@ -1,6 +1,7 @@
 .navigation nav ul {
     list-style: none;
-    padding: 0;
+    padding-left: 54px;
+    margin-right: 35px;
     display: flex;
     text-decoration: none;
 }
@@ -8,5 +9,6 @@
 .navigation li{
     padding-left: 54px;
     margin-top: 87px;
+    
 
 }
