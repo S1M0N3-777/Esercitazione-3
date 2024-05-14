@@ -9,11 +9,21 @@
 .center-content h1{
     font-size: 80px;
     color: white;
-    border-bottom: 2px solid;
+    border-bottom: 5px solid #343434;
+    border-top:  5px solid #343434;
+    padding-top: 18.5px;
+    padding-bottom: 18.5px;
 }
 
 .subtitle{
     color: white;
     text-align: center;
-    margin-top: 72px;
+    margin-top: 50px;
+    border-bottom: 5px solid white;
+    padding-bottom: 58.5px;
+}
+
+.aaaaaa{
+    height: 1px;
+    width: 50px;;
 }
