@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 180px;
+    margin-top: 130px;
 }
 
 .center-content h1{
@@ -19,11 +19,39 @@
     color: white;
     text-align: center;
     margin-top: 50px;
-    border-bottom: 5px solid white;
-    padding-bottom: 58.5px;
+    font-size: 20px;
+    width: 858px;
 }
 
-.aaaaaa{
-    height: 1px;
-    width: 50px;;
+.center-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.white-button{
+    display: block;
+    background-color: white;
+    height: 4px;
+    margin-top: 58.5px;
+    width: 388px;
+}
+
+
+.button-bottom a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 388px;
+    margin-top: 44.5px;
+    height: 64px;
+    border-radius: 25px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #080C71;
+}
+
+
+
