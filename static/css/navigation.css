@@ -1,7 +1,15 @@
+@import "font.css";
+
+.merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
 .navigation nav ul {
     list-style: none;
     display: flex;
-    text-decoration: none;
+    
     padding-left: 54px;
     margin-right: 35px;
 }
@@ -9,5 +17,12 @@
 .navigation li{
     padding-left: 54px;
     margin-top: 87px;
+    color: white;
+}
+
+.navigation a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
     color: white;
 }

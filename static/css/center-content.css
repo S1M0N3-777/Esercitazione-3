@@ -1,9 +1,12 @@
+@import "font.css";
+
+
 .center-content{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 130px;
+    margin-top: 180px;
 }
 
 .center-content h1{
@@ -13,14 +16,19 @@
     border-top:  5px solid #343434;
     padding-top: 18.5px;
     padding-bottom: 18.5px;
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    font-style: normal;
 }
 
 .subtitle{
     color: white;
     text-align: center;
+    width: 937px;
     margin-top: 50px;
-    font-size: 20px;
-    width: 858px;
+    font-size: 30px;
+    font-family: "Hoefler Text", serif;
+    font-style: normal;
 }
 
 .center-content{
@@ -51,6 +59,10 @@
     font-size: 30px;
     text-decoration: none;
     color: #080C71;
+    font-family: "Merriweather";
+    font-weight: bold;
+    font-style: normal;
+    font-size: 30px;
 }
 
 

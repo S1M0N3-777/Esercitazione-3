@@ -1,8 +1,13 @@
+@import "font.css";
+
+
+
 .bottom-links{
     margin-top: 220px;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
+    margin-right: 35px;
 }
 
 .bottom-links li{
@@ -13,6 +18,5 @@
 .bottom-links ul{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    
+    justify-content: space-between; 
 }

@@ -16,3 +16,8 @@
         background: linear-gradient(356deg, rgba(0,0,0,0.3757878151260504) 0%, rgba(0,0,0,0.04525560224089631) 100%);        width: 100%;
         height: 100%;
 }
+
+.body{
+    width: 100vw;
+    height: 100vh;
+}
