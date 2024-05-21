@@ -6,14 +6,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 180px;
+    margin-top: 110px;
 }
 
 .center-content h1{
     font-size: 80px;
     color: white;
-    border-bottom: 5px solid #343434;
-    border-top:  5px solid #343434;
+    border-bottom: 3px solid #343434;
+    border-top:  3px solid #343434;
     padding-top: 18.5px;
     padding-bottom: 18.5px;
     font-family: "Merriweather", serif;
@@ -55,7 +55,7 @@
     width: 388px;
     margin-top: 44.5px;
     height: 64px;
-    border-radius: 25px;
+    border-radius: 15px;
     font-size: 30px;
     text-decoration: none;
     color: #080C71;
