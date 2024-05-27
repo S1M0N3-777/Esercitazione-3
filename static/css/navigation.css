@@ -1,10 +1,5 @@
 @import "font.css";
 
-.merriweather-regular {
-    font-family: "Merriweather", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
 
 .navigation nav ul {
     list-style: none;
@@ -21,8 +16,10 @@
 }
 
 .navigation a{
+    list-style: none;
     text-decoration: none;
-    font-size: 20px;
-    font-weight: bold;
     color: white;
+    font-family: Merriweather;
+    font-size: 20px; 
+    font-weight: bold;
 }
