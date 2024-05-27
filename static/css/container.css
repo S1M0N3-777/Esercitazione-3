@@ -6,18 +6,20 @@
     position: relative;
 }
 
-.flex-container::after{
-        content: "";
-        display: block;
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100vw;
-        background: linear-gradient(356deg, rgba(0,0,0,0.3757878151260504) 0%, rgba(0,0,0,0.04525560224089631) 100%);        width: 100%;
-        height: 100%;
-}
+
 
 .body{
     width: 100vw;
     height: 100vh;
+}
+
+.grd{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    background: linear-gradient(180deg, rgba(0,0,0,0.3757878151260504) 0%, rgba(0,0,0,0.85) 100%);        width: 100%;
+    height: 100%;
 }
